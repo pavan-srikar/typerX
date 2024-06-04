@@ -6,6 +6,15 @@ import threading
 import time
 import logging
 
+print('''
+ _____                    __  __
+|_   _|   _ _ __   ___ _ _\ \/ /
+  | || | | | '_ \ / _ \ '__\  / 
+  | || |_| | |_) |  __/ |  /  \ 
+  |_| \__, | .__/ \___|_| /_/\_\ by pavan 
+      |___/|_|                  
+''')
+
 app = Flask(__name__)
 keyboard = Controller()
 stop_flag = threading.Event()
