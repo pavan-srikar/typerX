@@ -1,4 +1,10 @@
 # typerX
+ _____                    __  __
+|_   _|   _ _ __   ___ _ _\ \/ /
+  | || | | | '_ \ / _ \ '__\  / 
+  | || |_| | |_) |  __/ |  /  \ 
+  |_| \__, | .__/ \___|_| /_/\_\ by pavan 
+      |___/|_|                  
 
 types examily code in laptop [when copy-paste + Tab Switching is disabled] which you can control from mobile
 
@@ -41,4 +47,4 @@ types examily code in laptop [when copy-paste + Tab Switching is disabled] which
 
 ### Note:
 
-i am sure you will USE IT FOR EDUCATIONAL PURPOSES AND DEFINITELY NOT FOR MALPRACTISE IN EXAMS
+I am sure you will USE IT FOR EDUCATIONAL PURPOSES AND DEFINITELY NOT FOR MALPRACTICE IN EXAMS
