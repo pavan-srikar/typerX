@@ -8,7 +8,15 @@
 
 types examily code in laptop [when copy-paste + Tab Switching is disabled] which you can control from mobile
 
-## Instructions:
+## simple Instructions for windows users:
+1. extract that typerX windowxs.rar file and run the exe
+2. the server runs in localhost:5000
+3. download and run ngrok to make it public (you must create account and type ngrok config add-authtoken 123your_key456_nigga)
+    ```sh
+    ngrok http 5000
+    ```
+
+## Instructions to run raw code:
 
 1. Clone the repository:
     ```sh
